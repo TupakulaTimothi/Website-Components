@@ -6,8 +6,7 @@ It includes an image, heading, description, and interactive buttons linking to v
 ---
 
 ## 📸 Preview
-
-<img width="1037" height="146" alt="image" src="https://github.com/user-attachments/assets/699d0034-e38e-4c5a-bf3a-14cd022140b0" />
+<img width="1146" height="287" alt="image" src="https://github.com/user-attachments/assets/59360fb0-c250-41c9-abec-f8e553b33108" />
 
 ## 🧱 Features
 
