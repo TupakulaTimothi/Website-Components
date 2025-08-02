@@ -7,7 +7,7 @@ It includes an image, heading, description, and interactive buttons linking to v
 
 ## 📸 Preview
 
-![WhatsApp Image 2025-08-02 at 11 49 43_cee0501a](https://github.com/user-attachments/assets/937aee2c-969c-4bf9-8d68-1cd9e2c4fb5b)
+<img width="1037" height="146" alt="image" src="https://github.com/user-attachments/assets/699d0034-e38e-4c5a-bf3a-14cd022140b0" />
 
 ## 🧱 Features
 
