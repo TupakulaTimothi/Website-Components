@@ -22,3 +22,10 @@ This component replicates the top navigation bar of Amazon's website using HTML 
 1. Clone the repository:
    ```bash
    git clone https://github.com/TupakulaTimothi/Website-Components.git
+
+📌 Notes
+--The Amazon logo used is a white SVG for better contrast on dark backgrounds.
+
+--Icons are sourced from Wikimedia Commons and can be replaced with custom assets.
+
+--This is a static component and does not include dropdown functionality yet.
